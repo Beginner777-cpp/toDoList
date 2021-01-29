@@ -4,7 +4,10 @@
   list-style: none;
   text-decoration: none;
 }
-
+.project-title{
+  text-align: center;
+  font-size: 40px;
+}
 .page-content {
   font-family: "MuseoModerno", cursive;
   background-color: #a4508b;
